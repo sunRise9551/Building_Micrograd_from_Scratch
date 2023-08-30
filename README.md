@@ -1,6 +1,6 @@
 # Building_Micrograd_from_Scratch
 
-The underlying principles of implementing neural network backpropagation, teachings sourced from @karpathy
+The underlying principles of implementing neural network backpropagation, teachings sourced from Andrej.
 
 Youtube: https://www.youtube.com/watch?v=VMj-3S1tku0&t=1589s&ab_channel=AndrejKarpathy
 
